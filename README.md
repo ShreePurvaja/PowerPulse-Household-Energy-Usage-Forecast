@@ -64,8 +64,8 @@ PowerPulse_Energy_Forecast/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PowerPulse_Energy_Forecast.git
-cd PowerPulse_Energy_Forecast
+git clone https://github.com/ShreePurvaja/PowerPulse-Household-Energy-Usage-Forecast.git
+cd PowerPulse-Household-Energy-Usage-Forecast
 ```
 
 ### 2. Install Dependencies
