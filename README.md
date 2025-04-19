@@ -116,12 +116,13 @@ jupyter notebook notebooks/Project3.ipynb
 This project is licensed under the MIT License.
 
 ---
+
 ##👨‍💻 Author
-Name: [SHREE PURVAJA D]
+  Name: [SHREE PURVAJA D]
 
 ##Contact Me Through
-LinkedIn:[shree-purvaja-d][https://www.linkedin.com/in/shree-purvaja-d/]
+  LinkedIn:[shree-purvaja-d][https://www.linkedin.com/in/shree-purvaja-d/]
 
-Email: [shreepurvaja@gmail.com]
+  Email: [shreepurvaja@gmail.com]
 
 
