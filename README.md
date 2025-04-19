@@ -117,10 +117,10 @@ This project is licensed under the MIT License.
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
   Name: [SHREE PURVAJA D]
 
-##Contact Me Through
+## Contact Me Through
   LinkedIn:[shree-purvaja-d][https://www.linkedin.com/in/shree-purvaja-d/]
 
   Email: [shreepurvaja@gmail.com]
