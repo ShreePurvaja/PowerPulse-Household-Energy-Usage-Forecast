@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-  Name: [SHREE PURVAJA D]
+  Name: SHREE PURVAJA D
 
 ## Contact Me Through
   LinkedIn:[https://www.linkedin.com/in/shree-purvaja-d/]
